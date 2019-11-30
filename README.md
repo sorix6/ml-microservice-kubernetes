@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/sorix6/ml-microservice-kubernetes/tree/master.svg?style=svg)](https://circleci.com/gh/sorix6/ml-microservice-kubernetes/tree/master)
 
 ## Project Overview
 
